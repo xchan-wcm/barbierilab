@@ -21,17 +21,17 @@ In our lab, we focus on a wide range of research areas, spanning from computatio
 
 Our Dry Lab protocols section contains detailed documentation on computational and analysis protocols. Whether you're working on data analysis, modeling, or simulations, you'll find valuable guides and scripts here to assist you.
 
-- [Protocol 1: Name](./dry-lab-protocols/protocol1.md)
-- [Protocol 2: Name](./dry-lab-protocols/protocol2.md)
-- [Protocol 3: Name](./dry-lab-protocols/protocol3.md)
+- [Protocol 1: Name](./protocol1.md)
+- [Protocol 2: Name](./protocol2.md)
+- [Protocol 3: Name](./protocol3.md)
 
 ## Wet Lab Pipelines
 
 The Wet Lab Pipelines section provides information and instructions for experimental procedures, laboratory techniques, and data generation processes. If you're conducting experiments, this is the place to start.
 
-- [Pipeline 1: ATAC-seq](./wet-lab-pipelines/ATAC-seq.md)
-- [Pipeline 2: ChIP-seq](./wet-lab-pipelines/ChIP-seq.md)
-- [Pipeline 3: RNA-seq](./wet-lab-pipelines/RNA-seq.md)
+- [Pipeline 1: ATAC-seq](./ATAC-seq.md)
+- [Pipeline 2: ChIP-seq](./ChIP-seq.md)
+- [Pipeline 3: RNA-seq](./RNA-seq.md)
 
 ## Public Datasets
 
