@@ -37,7 +37,7 @@ The Wet Lab Pipelines section provides information and instructions for experime
 
 We believe in open science and sharing resources with the broader scientific community. In the Public Datasets section, you can find publicly available datasets that we have used or curated. These datasets may be valuable for your research.
 
-- [Dataset 1: Name](./public-datasets/dataset1.md)
+- [Dataset 1: Nat Commun 2023 human prostate scRNA-seq](https://github.com/shenglinmei/ProstateCancerAnalysis)
 - [Dataset 2: Name](./public-datasets/dataset2.md)
 - [Dataset 3: Name](./public-datasets/dataset3.md)
 
@@ -48,4 +48,4 @@ We welcome contributions from lab members and the wider community. If you have a
 
 ---
 
-We hope you find this Lab Resources Hub helpful for your research and experimentation. If you have any questions or suggestions, please [contact us](mailto:your@email.com). Thank you for being a part of our scientific community!
+We hope you find this Lab Resources Hub helpful for your research and experimentation. If you have any questions or suggestions, please [contact us](mailto:xuc4002@med.cornell.edu). Thank you for being a part of our scientific community!
